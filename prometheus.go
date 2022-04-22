@@ -10,8 +10,7 @@ import (
 	"os"
 	"sync"
 	"time"
-
-	"coding.jd.com/nmp/api/common/config"
+	
 	"github.com/prometheus/client_golang/api"
 	v1 "github.com/prometheus/client_golang/api/prometheus/v1"
 	"github.com/prometheus/common/model"
